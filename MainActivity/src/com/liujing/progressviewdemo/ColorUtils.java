@@ -5,6 +5,9 @@ import android.graphics.Color;
 /**
  * Created by hellsam on 15/12/17.
  * 
+ * 
+ * 
+ * 
  */
 public class ColorUtils {
 	    /**
